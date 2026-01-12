@@ -156,6 +156,8 @@
     .btn1-2 {
         order: 2;
         gap: 15px;
+        width: 100%;
+        justify-content: center;
     }
 
     .searchbar {
@@ -468,6 +470,18 @@
         width: 100%;
         justify-content: center;
         order: 2;
+    }
+
+    .btn1 {
+        display: none;
+    }
+
+    .btn2{
+        display: none;
+    }
+    
+    .btn1-2{
+        display: none;
     }
 
     .searchbar {
